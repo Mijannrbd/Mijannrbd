@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Mijannur
+
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi there, I am a professional web developer  I Have been programming Experian
 
