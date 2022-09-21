@@ -2,7 +2,7 @@
 
 #### Web Developer
 
-Hi there, I am a professional web developer  I Have been programming Experian
+Hi there, I am professional web developer  I Have been programming Experian
 
 Skills: ✔html ✔css ✔JavaScript✔ jQuery ✔Bootstrap ✔Wordpress 
 
